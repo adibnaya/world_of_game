@@ -70,6 +70,7 @@ This project is licensed under the MIT License. See `LICENSE` for more informati
 If you have any questions or suggestions, feel free to contact me:
 
 Name: Adi Bnaya
+
 Email: adibnaya@gmail.com
 You can also open an issue in this repository for any bug reports or feature requests.
 
