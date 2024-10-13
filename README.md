@@ -50,7 +50,7 @@ To get started with the project, you'll need the following tools installed on yo
    ```
    
 3. Set Up Environment Variables:
-Create a .env file in the root directory and add any necessary environment variables for your project.
+Copy .env.example to .env file in the root directory and add any necessary environment variables for your project.
 
 ### Running the Game
 

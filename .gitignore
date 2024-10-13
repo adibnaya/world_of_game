@@ -3,3 +3,5 @@
 
 # Ignore JetBrains IDE configuration directory
 .idea/
+
+.env
